@@ -1,0 +1,8 @@
+.card {
+  width: 75%;
+  border: 1px solid black;
+  cursor: pointer;
+  margin: 2rem 2rem 2.5rem 3rem;
+  background-color: rgb(144, 144, 241);
+  color: white;
+}
